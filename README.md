@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dr Bhawna Malik. I have done Phd in Applied mathematics and improving my skills to grab a job in data analytics.
 - 👀 Currently improving my skills 
-- 🌱 I am inyterested in the pharamaceutical companies/ public health where in I can use my Phd skills along with data analytics.
+- 🌱 I am interested in the pharamaceutical companies/ public health where in I can use my Phd skills along with data analytics.
 - 💞️ I’m looking to collaborate on the disease modelling or public health projects.
 - 📫 How to reach me :email :bm650@snu.edu.in
 - ⚡ Fun Fact: I like to lift weights and cook.
